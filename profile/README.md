@@ -4,7 +4,7 @@
 
 **Software that does the boring part, so work feels like *kaif*.**
 
-<sub>*kaif* — Russian for that moment when work just flows</sub>
+<sub>*kaif* — for that moment when work just flows</sub>
 
 </div>
 
