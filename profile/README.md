@@ -12,10 +12,10 @@
 
 <table>
 <tr>
-<td width="120" align="center"><img src="kontora.png" width="96" alt="kontora"></td>
+<td width="120" align="center"><a href="https://github.com/oookaif/kontora"><img src="kontora.png" width="96" alt="kontora"></a></td>
 <td>
 
-### kontora
+### [kontora](https://github.com/oookaif/kontora)
 
 Reads your work email and tells you every morning what to do today:
 who needs a reply, who owes you money, what is due.
